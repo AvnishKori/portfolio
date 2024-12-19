@@ -58,7 +58,7 @@ nav ul {
 }
 
 nav ul :hover {
-  color: blue;
+  color: rgb(157, 255, 0);
 }
 #detail {
   margin-left: 10%;
