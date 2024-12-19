@@ -35,6 +35,9 @@ nav {
   
   border-bottom: 1px solid #ccc;
 }
+nav a {
+  text-decoration: none;
+}
 #portfolio h1 {
   font-size: 40px;
   color: blue;
