@@ -32,6 +32,8 @@ nav {
   /* background-color: #191919; */
   align-items: center;
   justify-content: space-between;
+  
+  border-bottom: 1px solid #ccc;
 }
 #portfolio h1 {
   font-size: 40px;
